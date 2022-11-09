@@ -1,2 +1,2 @@
 # jnl221_nicholas
-Ian Nicholas
+Ian Nicholas's JNL221 assignments page
