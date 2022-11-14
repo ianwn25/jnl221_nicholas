@@ -1,0 +1,76 @@
+<!-- Complete this worksheet in html and css. Instructions are as comments; you may use reference_sheet.html and the internet to jog your memory on html tags and css. -->
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Basic HTML</title>
+        <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,400,300,600,700&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+        
+        <style>
+        
+        p {
+            color: maroon;
+            font-size: 16px;
+            font-family: 'Open Sans', serif;
+            width: 50%;
+        }
+
+
+        #bargraph {
+            border: 1px solid gray;
+            padding-left: 10px;
+            padding-bottom: 10px;
+            width: 25%;
+        }
+        .bar_label {
+            color: red;
+        }
+        #longest {
+            width: 200px;
+            height: 10px;
+            background: gray;
+            border: 1px solid red;
+        }
+        #longer {
+            width:150px;
+            height: 10px;
+            background: gray;
+            border: 1px solid red;
+        }
+        #long {
+            width: 100px;
+            height: 10px;
+            background: gray;
+            border: 1px solid red;
+        }
+
+        </style>
+    </head>
+    
+    <body>
+
+    <h1>A little bit about me!</h1>
+    
+    <h2>My intro</h2>
+    <!-- Include: a brief intro to yourself -- where you're from, what you like to do for fun, what you're studying, and who your community or family is. -->
+    <!-- Tags to use: <p>, <strong>, <i> -->
+        <p>My name's Ian Nicholas. I'm from New Canaan, CT; about an hour outside New York City. At Syracuse University I'm a sophomore broadcast and digital journalism major with a <i> passion </i> for <strong> sports broadcasting </strong>. I spend most of my free time honing my craft at three on-campus media organizations in <strong> CitrusTV, WAER, and Z89 </strong>. When I'm not behind the mic, you can find me binging a Netflix series, making a trip to the movie theatre, or playing on my XBOX. As an only child, I spend plenty of time with my parents, but I also carve out alone time with my dog Maxine.</p>     
+
+    <h2>My handles</h2>
+    <!- Include: at least two handles for your social media accounts -->
+    <!-- Tags to use: <p>, <a> -->
+          <p> <a href="https://www.instagram.com/ian.nicholas25/?hl=en" target="_blank">Instagram: @iannicholas25</a> <a href= "https://twitter.com/iannicholastv" target="_blank">
+        Twitter: @IanNicholasTV</a></p>
+
+    
+    <h2> ~ Challenge: Why is my text maroon? ~</h2>
+    <!-- Challenge! The text in your p tags is currently maroon. Figure out why and make it dark gray, using a hex code. (Hint: use google to find a hex code for a dark gray) -->
+    <p id="marron">My text is now dark slate gray.</p>
+
+
+    <h2>My favorite meme</h2>
+    <!-- Include: "large_wink.png" as an image -->
+    <!-- Tags to use: <img> -->
+    <!-- Hint! Use 'reference_sheet.html', which you downloaded with this file, to remember how to include an image. -->
+    <p> <a href="https://media.tenor.com/BmCbsCskdA4AAAAC/omg-oh-my-god.gif" target="_blank"> </a> </p>
