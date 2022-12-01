@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link type="text/css" rel="stylesheet" href="main.css" />
+	<title>Ian Nicholas 11/21/22 JNL 221 Homework</title>
+</head>
+<body>
+	<!-- You're following instructions on this page [https://github.com/jnl221/HTML_assignment] to add content in here. -->
+<h3>HTML/CSS Assignment #1</h3>
+<br><a href="https://www.bbc.com/news/uk-63824394" target="_blank">Source</a></br>
+<div>
+<img src="_127847805_harry-meghan_archival_kitchen_1.png.webp" alt="Prince Harry and Meghan together in their kitchen.">
+<p class="caption">The trailer uses black and white images of the couple's relationship <i>Netflix</i></p>
+</div>
+<h1> A trailer for Prince Harry and Meghan's Netflix documentary has been released, offering a first glimpse at what the couple say is the inside story of why they stepped down from royal duties. </h1>
+<p><strong>By Sean Coughlan</strong></p>
+<p>"No one sees what's happening behind closed doors," said Prince Harry. 
+<p>"When the stakes were this high, doesn't it make more sense to hear our story from us?" Meghan adds.</p>
+<p>This comes against a backdrop of a royal race row about comments to a black guest at Buckingham Palace.</p>
+<p>"I had to do everything I could to protect my family," Prince Harry also said in the teaser script for this 15-rated six-part series Harry and Meghan.</p>
+<div>
+	<img class="otherimg" src="_127849361_netflix2.png.webp" alt="An image of Prince Harry and Meghan jumping for joy in a field.">
+ 	<p class="caption">The minute-long trailer features images of happy moments between the couple <i>Netflix</i></p>  
+</div>
+<div>
+	<img class="otherimg" src="_127848944_netflix2.jpg.webp" alt="An image of Meghan crying while on the phone.">
+ 	<p class="caption">There were also tearful images of Meghan, the Duchess of Sussex <i>Netflix</i></p>
+</div>
+<p>The trailer sets the scene with a fast forward set of some previously unseen black and white images - from a young couple messing around to later tense and tearful images of Meghan, the Duchess of Sussex.</p>
+<p>This is intercut with a picture of the Princess of Wales looking rather ferociously ahead.</p>
+<p>The minute-long trailer for the series, directed by Liz Garbus, is set against increasingly ominous music - and the approach of the series is going to cause royal anxiety.</p>
+<div>
+	<img class="otherimg" src="_127849366_netflix3.png.webp" alt="An image of Prince William and Kate.">
+ 	<p class="caption">An image of Kate is intercut with a tearful image of Meghan <i>Netflix</i></p>
+</div>
+<div>
+	<img class="otherimg" src="_127849057_netflix3.jpg.webp" alt="An image of Prince Harry mid-interview.">
+ 	<p class="caption">Harry is heard saying: "I had to everything I could to protect my family" <i>Netflix</i></p>
+<p>There are likely to be worries within the Royal Family about the trailer and series overshadowing Prince William and Catherine's high-profile visit to Boston in the US this week. Their trip has already been threatened with being overshadowed by the race row at Buckingham Palace.</p>
+<p>Prince William's godmother Lady Susan Hussey stood down from her honorary duties for the Royal Family on Wednesday, after Ngozi Fulani, founder of the charity Sistah Space described how she had been repeatedly asked by her where she "really" came from at a palace reception on Tuesday.</p>
+<p>Buckingham Palace issued a statement on Wednesday saying that the comments had been "unacceptable and deeply regrettable" and that Lady Hussey apologised for the hurt caused. This was followed shortly afterwards by a spokesperson for Prince William saying that "racism has no place in our society".</p>
+<p>But the BBC's Daniela Relph, who is in Boston, says not to expect the Prince and Princess of Wales to say anything about the Netflix documentary series during their engagements. Royal sources say they want to concentrate on meeting communities and local people.</p>
+<p>Prince William and Catherine's visit to the US will end with a ceremony on Friday for their Earthshot Prize - which is awarded for innovative ideas for the environment. Harry and Meghan are not expected to attend the event.</p>
+<div>
+	<img class="otherimg" src="_127849063_pa.jpg.webp" alt="An image of Prince William and Kate in the United States.">
+ 	<p class="caption">The Prince and Princess of Wales were presented with flowers by a boy dressed as a Guardsman during their US trip <i>PA Media</i></p>
+</div>
+<p>The Harry and Meghan Netflix series promises to show the "clandestine days of their early courtship" and will have commentary from friends and family who have not spoken before "about what they'd witnessed".</p>
+<p>The behind the scenes story says it will reveal a "picture of the world and how we treat each other", including Prince Harry and Meghan's relationship with the media.</p>
+<p>Netflix has not confirmed the release date, although it is expected to begin next week.</p>
+<div>
+	<img class="otherimg" src="_127859654_netflix4.png.webp" alt="An image of Prince Harry and Meghan dancing.">
+ 	<p class="caption">The documentary series is expected to start next week <i>Netflix</i></p>
+</div>
+</body>
+</html>
