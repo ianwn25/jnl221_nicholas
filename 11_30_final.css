@@ -1,0 +1,50 @@
+/*This is the CSS page for our final template.*/
+
+.footer p {
+	background-color: #cccccc;
+	text-align: center;
+	font-size: 20px;
+	margin-bottom: 0;
+	div {border-top-color: coral;}
+}
+p {
+	font-family: 'Oswald', sans-serif;
+	font-size: 40px;
+}
+.header {
+	height: auto;
+	font-weight: bold;
+	font-size: 50px;
+	background-color: black;
+	color: white;
+	text-align: center;
+	font-family: 'Times New Roman', serif;
+	text-shadow: 20px, grey;
+}
+h4 {
+	font-style: italic;
+	font-size: 40px;
+	font-family: 'Times New Roman', serif;
+}
+h3 {
+	font-size: 50px;
+}
+img {
+	float: right;
+	margin-right: 5%;
+	margin-left: 5%;
+	border: dashed;
+	border-color: white;
+}
+
+{
+	p#with-img
+    {
+        display: block; 
+        float: none;
+    }
+	img {
+		display: block; 
+		float: none;
+		margin-left: 30%;
+    }
